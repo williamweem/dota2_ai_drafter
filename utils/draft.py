@@ -1,4 +1,3 @@
-import pickle
 import numpy as np
 from utils.player import MCTSPlayer
 import tensorflow as tf
